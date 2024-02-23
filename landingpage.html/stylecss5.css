@@ -1,0 +1,127 @@
+body{
+    padding: 10px;
+    background-color: #2d3f3d;;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+   
+    
+}
+
+.container{
+    display: flex;
+    width: 990px;
+    justify-content: space-between;
+    background-color: #2d3f3d;
+    
+    
+
+}
+.logo{
+display: flex;
+align-items: center;
+}
+Img{
+    width: 100px;
+    height: 100px;
+}
+div .logos{
+    align-items: center;
+    display: flex;
+}
+.logos img{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+}
+section .container{
+    background-color: #2d3f3d;
+   
+    
+}
+section{
+    display: flex;
+    justify-content: center;
+    
+
+}
+section img{
+    height: 200px;
+    width: 400px;
+    margin-top: 10px;
+    
+    
+}
+
+aside{
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    
+}
+aside .container{
+    display: flex;
+    width: 990px;
+    justify-content: space-between;
+    background-color: #2d3f3d;
+}
+aside .subtitulo{
+    
+    align-items: flex-end;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+}
+aside .subtitulo2{
+    font-size: 20px;
+    color: white;
+}
+aside .text, .text2{
+    font: size 30px;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.botao{
+    
+    width: 990px;
+    background-color: #2d3f3d;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+button{
+    color: white;
+    background-color:#2c2c2c ;
+    height: 50px;
+    width: 100px;
+    font-weight: bold;
+    font-style: italic;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    font-weight: bold;
+    color: whitesmoke;
+     
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+  
